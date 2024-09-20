@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ranticest.github.io/sitemap.html.gz
+Sitemap: https://ranticest.github.io/app/sitemap.html.gz
+Sitemap: https://ranticest.github.io/assets/sitemap.html.gz
+Sitemap: https://ranticest.github.io/css/sitemap.html.gz
+Sitemap: https://ranticest.github.io/data/sitemap.html.gz
+Sitemap: https://ranticest.github.io/includes/sitemap.html.gz
+Sitemap: https://ranticest.github.io/item/sitemap.html.gz
+Sitemap: https://ranticest.github.io/src/sitemap.html.gz
